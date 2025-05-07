@@ -1,4 +1,3 @@
-// Form Submission
 const hireForm = document.querySelector(".hire-form");
 const email = "teste@gmail.com";
 
